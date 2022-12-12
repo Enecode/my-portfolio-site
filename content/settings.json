@@ -4,14 +4,15 @@
     "siteUrl": "https://github.com/Enecode/react-portfolio-website/",
     "title": "Isah Jacob",
     "titleTemplate": "%s · Jacob'portfolio",
-    "description": "A portfolio website built with Gatsby Portfolio Minimal theme.",
+    "description": "A portfolio website built with Reactjs",
     "author": "Isah Jacob",
-    "avatar": "../content/images/gatsby.png",
+    "avatar": "../content/images/jacobisah.png",
     "bio": "Software engineer and technical writer",
     "social": {
       "github": "https://github.com/enecode",
       "medium": "https://medium.com/@isahjacob",
       "linkedin": "https://www.linkedin.com/in/isahejacob/",
+      "twitter": "https://twitter.com/IsahJakub",
       "mail": "mailto:isahjacob0@gmail.com"
     }
   },
@@ -21,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "https://medium.com/@isahjacob" },
-        { "label": "Features", "url": "/#features" },
+        { "label": "Projects", "url": "/#project" },
         { "label": "Github", "url": "https://github.com/enecode" }
       ],
       "ctaButton": {

@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ Blog App",
+      "category": "Django Web App",
       "title": "Get to know me and what I blog about",
       "description": "My home page includes information about myself, a project, a quote, contact information, and a footer. The blog page lists all of the blog posts, along with their title, publication date, author, and summary.",
       "tags": ["Leaning", "Building"],
@@ -24,7 +24,7 @@
     },
     {
       "visible": true,
-      "category": "WEB APP",
+      "category": "Django Web App",
       "title": "Learning Log App",
       "description": "The Learning Log app is an online journaling application that allows users to record their learning on specific subjects. Users can keep track of the subjects they are interested in and write entries in their journals as they learn more about each one. Users are required to log in or register on the Learning Log home page after reading the site's description. A user has the ability to add new subjects, edit existing ones, and add new entries.",
       "tags": ["Building", "Learning"],
@@ -38,7 +38,46 @@
           "url": "https://github.com/Enecode/learning-log"
         }
       ]
+    },
+    {
+      "visible": true,
+      "category": "JavaScript, HTML, CSS",
+      "title": "Counter App",
+      "description": "The counter app is built with JavaScript, HTML and CSS. It allow users to keep incrementing values. It can be use to count row calling, etc.",
+      "tags": ["Building", "Learning"],
+      "image": {
+        "src": "../../images/counter.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Enecode/counter-app"
+        },
+        {
+          "type": "external",
+          "url": "https://enecode.github.io/counter-app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "React Web App",
+      "title": "Meme Generator",
+      "description": "Meme generator built with Rectjs The meme is fetched from an API. Users can enter text that resonates with any image, depending on what they want.",
+      "tags": ["Building", "Learning"],
+      "image": {
+        "src": "../../images/meme.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://sweet-cascaron-28c4b9.netlify.app/"
+        }
+      ]
     }
+
   ],
   "button": {
     "visible": true,

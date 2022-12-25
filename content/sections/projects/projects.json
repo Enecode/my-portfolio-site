@@ -67,7 +67,7 @@
       "description": "The digital profile show cases my job title, skills, hobbies and interest.",
       "tags": ["Building", "Learning"],
       "image": {
-        "src": "../../images/digital-profile.png",
+        "src": "../../images/digital--profile.png",
         "alt": ""
       },
       "links": [

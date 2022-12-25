@@ -3,8 +3,8 @@
     {
       "visible": true,
       "category": "Django Web App",
-      "title": "Get to know me and what I blog about",
-      "description": "My home page includes information about myself, a project, a quote, contact information, and a footer. The blog page lists all of the blog posts, along with their title, publication date, author, and summary.",
+      "title": "Blog App",
+      "description": "The Blog App includes, my home page includes information about myself, a project, a quote, contact information, and a footer. The blog page lists all of the blog posts, along with their title, publication date, author, and summary.",
       "tags": ["Leaning", "Building"],
       "image": {
         "src": "../../images/blogproject.jpeg",
@@ -41,33 +41,54 @@
     },
     {
       "visible": true,
-      "category": "JavaScript, HTML, CSS",
-      "title": "Counter App",
-      "description": "The counter app is built with JavaScript, HTML and CSS. It allow users to keep incrementing values. It can be use to count row calling, etc.",
-      "tags": ["Building", "Learning"],
-      "image": {
-        "src": "../../images/counter.png",
-        "alt": ""
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/Enecode/counter-app"
-        },
-        {
-          "type": "external",
-          "url": "https://enecode.github.io/counter-app/"
-        }
-      ]
-    },
-    {
-      "visible": true,
       "category": "React Web App",
       "title": "Meme Generator",
       "description": "Meme generator built with Rectjs The meme is fetched from an API. Users can enter text that resonates with any image, depending on what they want.",
       "tags": ["Building", "Learning"],
       "image": {
         "src": "../../images/meme.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Enecode/meme-generator-react/tree/main"
+        },
+        {
+          "type": "external",
+          "url": "https://enecode.github.io/meme-generator-react/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "React Web App",
+      "title": "Digital Profile",
+      "description": "The digital profile show cases my job title, skills, hobbies and interest.",
+      "tags": ["Building", "Learning"],
+      "image": {
+        "src": "../../images/digital-profile.png",
+        "alt": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/Enecode/digital-profile/tree/main"
+        },
+        {
+          "type": "external",
+          "url": "https://enecode.github.io/digital-profile/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "React Web App",
+      "title": "Service Form",
+      "description": "The Service Form allow users to enter first name, last name and select the service they want with a message and submit afwards",
+      "tags": ["Building", "Learning"],
+      "image": {
+        "src": "../../images/form.png",
         "alt": ""
       },
       "links": [

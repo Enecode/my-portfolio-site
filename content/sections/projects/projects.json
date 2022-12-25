@@ -80,23 +80,6 @@
           "url": "https://enecode.github.io/digital-profile/"
         }
       ]
-    },
-    {
-      "visible": true,
-      "category": "React Web App",
-      "title": "Service Form",
-      "description": "The Service Form allow users to enter first name, last name and select the service they want with a message and submit afwards",
-      "tags": ["Building", "Learning"],
-      "image": {
-        "src": "../../images/form.png",
-        "alt": ""
-      },
-      "links": [
-        {
-          "type": "external",
-          "url": "https://sweet-cascaron-28c4b9.netlify.app/"
-        }
-      ]
     }
   ],
   "button": {
